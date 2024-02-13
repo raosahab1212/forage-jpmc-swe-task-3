@@ -4,7 +4,7 @@ import { ServerRespond } from './DataStreamer';
 import { DataManipulator } from './DataManipulator';
 import './Graph.css';
 
-interface IProps {
+cc
   data: ServerRespond[],
 }
 
